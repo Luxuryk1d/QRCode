@@ -1,0 +1,19 @@
+export const GET_OFFICES = "GET_OFFICES";
+
+export const EDIT_OFFICE = "EDIT_OFFICE";
+export const GET_OFFICE = "GET_OFFICE";
+
+export const ADD_OFFICE_ID = "ADD_OFFICE_ID";
+export const ADD_OFFICE_NAME_RU = "ADD_OFFICE_NAME_RU";
+export const ADD_OFFICE_NAME_KG = "ADD_OFFICE_NAME_KG";
+export const ADD_OFFICE_NAME_EN = "ADD_OFFICE_NAME_EN";
+export const ADD_OFFICE_DESCRIPTION = "ADD_OFFICE_DESCRIPTION";
+export const ADD_OFFICE_MANAGER = "ADD_OFFICE_MANAGER";
+export const ADD_MANAGER_MAIL = "ADD_MANAGER_MAIL";
+export const ADD_MANAGER_NUM = "ADD_MANAGER_NUM";
+export const ADD_OFFICE_IMAGE = "ADD_OFFICE_IMAGE";
+export const ADD_OFFICE_NUM = "ADD_OFFICE_NUM";
+
+export const ADD_USERNAME = "ADD_USERNAME";
+export const ADD_PASSWORD = "ADD_PASSWORD";
+export const GET_USER = "GET_USER";
