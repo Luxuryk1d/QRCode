@@ -13,6 +13,7 @@ const Login =() => {
 
     const addUserNameHandler = event => {
         dispatch(addUserName(event.target.value));
+        console.log(event.target.value)
     };
 
     const addPasswordHandler = event => {
